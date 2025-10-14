@@ -5,7 +5,7 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 ## Programming Languages
 [![C](https://img.shields.io/badge/C-203759?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-203759?logo=cplsuplus&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%203759.svg?logo=cshrp&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C#-203759?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-203759?logo=php&logoColor=white)](#)
 [![Pthon](https://img.shields.io/badge/Python-203759?logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-203759?logo=java&logoColor=white)](#)
@@ -52,6 +52,6 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 </details>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-203759?logo=linkedin-white&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-%203759?&logo=discord&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%203759?logo=Instagram&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-203759?&logo=discord&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-203759?logo=Instagram&logoColor=white)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-203759?logo=LeetCode&logoColor=#white)](#)
