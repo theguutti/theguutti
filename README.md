@@ -2,12 +2,12 @@
 Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 
 ## Linguagens e Ferramentas:
-!(https://img.shields.io/badge/C--2bbc8a?logo=c&logoColor=white)
-!(https://img.shields.io/badge/C++--2bbc8a?logo=cplsuplus&logoColor=white)
-!(https://img.shields.io/badge/C#--2bbc8a?logo=csharp&logoColor=white)
-!(https://img.shields.io/badge/PHP--2bbc8a?logo=php&logoColor=white)
-!(https://img.shields.io/badge/Python--2bbc8a?logo=python&logoColor=white)
-!(https://img.shields.io/badge/Java--2bbc8a?logo=java&logoColor=white)
+![](https://img.shields.io/badge/C--2bbc8a?logo=c&logoColor=white)
+![](https://img.shields.io/badge/C++--2bbc8a?logo=cplsuplus&logoColor=white)
+![](https://img.shields.io/badge/C#--2bbc8a?logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/PHP--2bbc8a?logo=php&logoColor=white)
+![](https://img.shields.io/badge/Python--2bbc8a?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java--2bbc8a?logo=java&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML5--2bbc8a?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS--2bbc8a?logo=css&logoColor=white)
