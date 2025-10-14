@@ -51,7 +51,7 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 
 </details>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-203759?logo=linkedin-white&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-203759?&logo=discord&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-203759?logo=Instagram&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-203759?logo=LeetCode&logoColor=#white)](#)
+## Redes Sociais
+[![Gmail](https://img.shields.io/badge/Gmail-203759?logo=gmail&logoColor=white)](rossottinog@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-203759?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/%C3%ADkaro-rossotti-9b6335295/)
+[![Instagram](https://img.shields.io/badge/Instagram-203759?logo=Instagram&logoColor=white)](https://www.instagram.com/ikarorst/)
