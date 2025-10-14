@@ -13,7 +13,7 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 ![CSS](https://img.shields.io/badge/CSS--2bbc8a?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript--2bbc8a?logo=javascript&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL--2bbc8a?logo=mysql&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)]
 ![MariaDB](https://img.shields.io/badge/MariaDB--2bbc8a?logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL--2bbc8a?logo=postgresql&logoColor=white)
 
