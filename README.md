@@ -18,6 +18,6 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL--2bbc8a?logo=postgresql&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma--2bbc8a?logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop--2bbc8a?logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator--2bbc8a?logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop--2bbc8a?logo=photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator--2bbc8a?logo=illustrator&logoColor=white)
 
