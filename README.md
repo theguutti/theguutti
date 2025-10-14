@@ -5,7 +5,7 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 ## Programming Languages
 [![C](https://img.shields.io/badge/C-203759?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-203759?logo=cplsuplus&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C#-203759?logo=cshrp&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-203759.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-203759?logo=php&logoColor=white)](#)
 [![Pthon](https://img.shields.io/badge/Python-203759?logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-203759?logo=java&logoColor=white)](#)
@@ -25,7 +25,7 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 [![Figma](https://img.shields.io/badge/Figma-203759?logo=figma&logoColor=white)](#)
 [![Photoshop](https://img.shields.io/badge/Photoshop-203759?logo=photoshop&logoColor=white)](#)
 [![Illustrator](https://img.shields.io/badge/Illustrator-203759?logo=illustrator&logoColor=white)](#)
-[![Canva](https://img.shields.io/badge/Canva-%203759.svg?&logo=Canva&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-203759.svg?&logo=Canva&logoColor=white)](#)
 
 <details>
   <summary>Mais..</summary>
