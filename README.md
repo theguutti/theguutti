@@ -52,6 +52,6 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 </details>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-203759?logo=linkedin-white&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-%203759.svg?&logo=discord&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-%203759.svg?logo=Instagram&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-%203759?&logo=discord&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%203759?logo=Instagram&logoColor=white)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-203759?logo=LeetCode&logoColor=#white)](#)
