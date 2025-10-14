@@ -8,7 +8,7 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-203759.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-203759?logo=php&logoColor=white)](#)
 [![Pthon](https://img.shields.io/badge/Python-203759?logo=python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-203759?logo=jdk&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%203759.svg?logo=openjdk&logoColor=white)](#)
 [![Scratch](https://img.shields.io/badge/Scratch-203759?logo=scratch&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-203759?logo=typescript&logoColor=white)](#)
 
