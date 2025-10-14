@@ -33,11 +33,11 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 ## Framework
 [![.NET](https://img.shields.io/badge/.NET-203759?logo=dotnet&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-203759?logo=bootstrap&logoColor=white)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%203759.svg?logo=tailwind-css&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-203759.svg?logo=tailwind-css&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-203759?logo=node.js&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-203759?logo=docker&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-203759?logo=springboot&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-%203759.svg?logo=django&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-203759.svg?logo=django&logoColor=white)](#)
 [![Ember.js](https://img.shields.io/badge/Ember.js-203759?logo=emberdotjs&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-203759?logo=flask&logoColor=white)](#)
   
