@@ -2,7 +2,7 @@
 Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 
 ## Linguagens e Ferramentas:
-![](https://img.shields.io/badge/-2bbc8a?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-2bbc8a?logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C++--2bbc8a?logo=cplsuplus&logoColor=white)
 ![](https://img.shields.io/badge/C#--2bbc8a?logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/PHP--2bbc8a?logo=php&logoColor=white)
