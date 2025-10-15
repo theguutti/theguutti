@@ -23,8 +23,8 @@ Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 
 ## Design
 [![Figma](https://img.shields.io/badge/Figma-203759?logo=figma&logoColor=white)](#)
-[![Photoshop](https://img.shields.io/badge/Photoshop-203759?logo=photoshop&logoColor=white)](#)
-[![Illustrator](https://img.shields.io/badge/Illustrator-203759?logo=illustrator&logoColor=white)](#)
+[![Photoshop](https://img.shields.io/badge/Photoshop-203759?logo=adobe%20photoshop&logoColor=white)](#)
+[![Illustrator](https://img.shields.io/badge/Illustrator-203759?logo=adobe%20illustrator&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-203759.svg?&logo=Canva&logoColor=white)](#)
 
 <details>
