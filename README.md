@@ -3,11 +3,13 @@
 <table>
 <tr>
 <td align="center" width="50%">
+  
 ### Olá, eu sou o Íkaro Nogueira Rossotti!  
 Estudante do terceiro ano do curso de Informática no CEFET/RJ (Centro Federal de Educação Tecnológica Celso Suckow da Fonseca).  
 
 </td>
 <td align="center" width="50%">
+  
 ### Hello! I'm Íkaro Nogueira Rossotti!  
 A third-year Informatics student at the Federal Institute of Technology of Rio de Janeiro (CEFET/RJ).  
 
