@@ -1,10 +1,6 @@
 ## Olá, eu sou o Íkaro Nogueira Rossotti!
 Estudante do terceiro ano do curso de Informática no CEFET/RJ.
 
-<small>Hello, I'm Íkaro Nogueira Rossotti!
-A third-year Computer Science student at CEFET/RJ (Federal Institute of Technology of Rio de Janeiro).</small>
-
-
 ## Programming Languages
 [![C](https://img.shields.io/badge/C-203759?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-203759.svg?logo=c%2B%2B&logoColor=white)](#)
