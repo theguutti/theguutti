@@ -35,13 +35,9 @@ A third-year Informatics student at the Federal Institute of Technology of Rio d
 
 ## Databases
 [![MySQL](https://img.shields.io/badge/MySQL-203759?logo=mysql&logoColor=white)](#)
-[![MariaDB](https://img.shields.io/badge/MariaDB-203759?logo=mariadb&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-203759?logo=postgresql&logoColor=white)](#)
 
 ## Design
 [![Figma](https://img.shields.io/badge/Figma-203759?logo=figma&logoColor=white)](#)
-[![Photoshop](https://img.shields.io/badge/Photoshop-203759?logo=adobe%20photoshop&logoColor=white)](#)
-[![Illustrator](https://img.shields.io/badge/Illustrator-203759?logo=adobe%20illustrator&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-203759.svg?&logo=Canva&logoColor=white)](#)
 
 <details>
@@ -54,14 +50,10 @@ A third-year Informatics student at the Federal Institute of Technology of Rio d
 [![Node.js](https://img.shields.io/badge/Node.js-203759?logo=node.js&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-203759?logo=docker&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-203759?logo=springboot&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-203759.svg?logo=django&logoColor=white)](#)
-[![Ember.js](https://img.shields.io/badge/Ember.js-203759?logo=emberdotjs&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-203759?logo=flask&logoColor=white)](#)
   
 ## Data Science
 [![NumPy](https://img.shields.io/badge/NumPy-203759?logo=numpy&logoColor=white)](#) 
 [![Pandas](https://img.shields.io/badge/Pandas-203759?logo=pandas&logoColor=white)](#)
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-203759?logo=power-bi&logoColor=white)](#)
 
 ## Documentation
 [![Notion](https://img.shields.io/badge/Notion-203759?logo=notion&logoColor=white)](#)
