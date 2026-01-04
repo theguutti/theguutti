@@ -54,6 +54,7 @@ A third-year Informatics student at the Federal Institute of Technology of Rio d
 ## Data Science
 [![NumPy](https://img.shields.io/badge/NumPy-203759?logo=numpy&logoColor=white)](#) 
 [![Pandas](https://img.shields.io/badge/Pandas-203759?logo=pandas&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-203759?logo=matplotlib&logoColor=white)](#)
 
 ## Documentation
 [![Notion](https://img.shields.io/badge/Notion-203759?logo=notion&logoColor=white)](#)
