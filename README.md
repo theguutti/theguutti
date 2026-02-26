@@ -4,13 +4,15 @@
 <tr>
 <td align="center" width="50%">
   
-### Olá, eu sou o Íkaro Nogueira Rossotti!  
+### Olá, eu sou o Íkaro Nogueira Rossotti!
+Estudante de Engenharia da Computação no CEFET/RJ (Centro Federal de Educação Tecnológica Celso Suckow da Fonseca).
 Técnico em Informática formado pelo CEFET/RJ (Centro Federal de Educação Tecnológica Celso Suckow da Fonseca).
   
 </td>
 <td align="center" width="50%">
   
-### Hello! I'm Íkaro Nogueira Rossotti!  
+### Hello! I'm Íkaro Nogueira Rossotti!
+Computer Engineering Student at the Federal Institute of Technology of Rio de Janeiro (CEFET/RJ).
 Computer Technician graduated from the Federal Institute of Technology of Rio de Janeiro (CEFET/RJ).
   
 </td>
